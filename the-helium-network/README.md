@@ -26,7 +26,7 @@ In 2013, [Helium](../helium-glossary.md#helium) began trying to tackle the globa
 
 [_**Network Usage**_](./#network-usage)
 
-#### Helium
+### Helium
 
 Summer of 2019 in Austin TX, a group of core engineers envisioned a [peer-to-peer network](../helium-glossary.md#peer-to-peer-network) that would be used to provide coverage to [IoT](../helium-glossary.md#iot) [sensors](../helium-glossary.md#sensor). Little did they realize Covid-19 was about to put the world on lockdown. This gave them time to connect, and work with organizations who would wind up playing integral roles in Helium’s genesis, but also drove home the impact of supply chain issues, resource scarcity, infrastructure inequality, and many other issues that were being exacerbated by the pandemic.\
 \
@@ -34,7 +34,7 @@ Summer of 2019 in Austin TX, a group of core engineers envisioned a [peer-to-pee
 \
 You can learn more about the investors who support Helium and Nova [here](https://www.crunchbase.com/organization/helium-systems-inc/company\_financials).
 
-#### Nova
+### Nova
 
 Co-founded by [Shawn Fanning](../helium-glossary.md#napster) and Amir Haleem in 2013, [Nova Labs](../helium-glossary.md#napster) (formerly Helium Inc.) is the pioneer of [decentralized](../helium-glossary.md#decentralized) [wireless](../helium-glossary.md#wireless) communications and founder of the core technologies powering the Helium Network.
 
@@ -45,17 +45,17 @@ _Source-_
 
 [GOODYEAR VENTURES EXPANDS PORTFOLIO WITH NOVA LABS INVESTMENT TO ADVANCE CONNECTED MOBILITY ON THE HELIUM NETWORK](https://www.prnewswire.com/news-releases/goodyear-ventures-expands-portfolio-with-nova-labs-investment-to-advance-connected-mobility-on-the-helium-network-301513704.html)
 
-#### Foundation
+### Foundation
 
 Helium Foundation, previously known as Decentralized Wireless Alliance, had the [Helium](../helium-glossary.md#helium) brand assets transferred to them by [Nova Labs](../helium-glossary.md#nova-nova-labs). Helium Foundation oversees an extensive grant program that provides individuals and groups funding, technical support, and community resources for projects that help accelerate the growth of the Helium ecosystem.
 
 Learn more on their website, where you can also apply for a grant directly. [Helium Foundation](https://www.helium.foundation/)
 
-#### [Blockchain](../helium-glossary.md#blockchain)
+### [Blockchain](../helium-glossary.md#blockchain)
 
 The [Helium Blockchain](../helium-glossary.md#helium-blockchain) is the framework on which the Helium network is built. The blockchain hosts historical [HNT](../helium-glossary.md#hnt) transaction [data](../helium-glossary.md#data), new transactions made, and rules about how the [software](../helium-glossary.md#software) functions.
 
-#### [**IoT**](../helium-glossary.md#iot)
+### [**IoT**](../helium-glossary.md#iot)
 
 [Wireless](../helium-glossary.md#wireless) devices that have low [data](../helium-glossary.md#data) requirements are able to send and receive information over long distance [radio](../helium-glossary.md#radio) [transmissions](../helium-glossary.md#transmission). From environmental [sensors](../helium-glossary.md#sensor) that monitor weather, to tracking devices to keep tabs on logistical assets like packages or trucks, the [Internet of Things](../helium-glossary.md#internet-of-things) provides [coverage](../helium-glossary.md#coverage) to these devices on a wide personal and industrial scale.
 
@@ -64,7 +64,7 @@ As the [Helium Coverage map](../helium-glossary.md#helium-coverage-map) continue
 \
 [Here](https://news.rakwireless.com/make-a-helium-mapper-with-the-wisblock/) is a great guide on how to get started from scratch or using a [RAK Helium Mapper Kit](https://store.rakwireless.com/products/helium-mapper-kit?variant=41259355701446)
 
-#### [Mining](../helium-glossary.md#mining)
+### [Mining](../helium-glossary.md#mining)
 
 Every epoch, the [consensus](../helium-glossary.md#consensus) group [mines](../helium-glossary.md#mining) approximately 30 [blocks](../helium-glossary.md#block). [Hotspots](../helium-glossary.md#hotspot) are [rewarded](../helium-glossary.md#reward) for the various work they perform, and are rewarded according to the following distribution:\\
 
@@ -96,23 +96,23 @@ Below are the mining rewards per epoch as of August 1, 2021. For every complete 
 | Network Data Transfer | _Up to 35%_     | _Up to 607.6389_              |
 | Total                 | 100%            | 1736.1111                     |
 
-#### Light vs [Full Hotspots](../helium-glossary.md#full-hotspots)
+### Light vs [Full Hotspots](../helium-glossary.md#full-hotspots)
 
 Before [Light Hotspots](../helium-glossary.md#light-hotspots), hotspots were required to [sync](../helium-glossary.md#sync) with the [blockchain](../helium-glossary.md#blockchain). These hotspots are now referred to colloquially as Full Hotspots, to distinguish them from their new function, Light Hotspots. The [proof of coverage](../helium-glossary.md#proof-of-coverage) remains the same, but rather than using the computational power required to sync to the blockchain, validator’s now sync on the half of hotspots, as well as submit challenges to beacon. This allows our hotspots to provide more consistent proof of coverage, which leads to better rewards.
 
-#### [Validators](../helium-glossary.md#validator)
+### [Validators](../helium-glossary.md#validator)
 
 Validators help distribute and [decentralize](../helium-glossary.md#decentralized) the [network](../helium-glossary.md#network). They verify transaction data, perform [consensus mechanisms](../helium-glossary.md#consensus-mechanism), [challenge](../helium-glossary.md#challenge) [hotspots](../helium-glossary.md#hotspot) to submit [beacons](../helium-glossary.md#beacon), and add new [blocks](../helium-glossary.md#block) to the [blockchain](../helium-glossary.md#blockchain). Validators must [stake](../helium-glossary.md#stake) 10,000HNT against their participation, which will be forfeited in the event they attempt to cheat the network. Over 30% of all [HNT](../helium-glossary.md#hnt) in circulation is currently locked in stake, which provides security to its investors.
 
 [Consensus](../helium-glossary.md#consensus) is a fault-tolerant mechanism used in computer [blockchain](../helium-glossary.md#blockchain) systems to verify an agreed upon single value, or set of data. This allows [validators](../helium-glossary.md#validator) to prove the work they've performed qualifies them for the right to add a [block](../helium-glossary.md#block) to the [blockchain](../helium-glossary.md#blockchain).
 
-#### Data-Only Hotspots
+### Data-Only Hotspots
 
 Data Only hotspots perform [data transfer](../helium-glossary.md#data-transfer) in exchange for [rewards](../helium-glossary.md#reward) on the network, but are ineligible for [Proof of Coverage](../helium-glossary.md#proof-of-coverage) rewards. Since they do not perform [PoC](../helium-glossary.md#proof-of-coverage), they can be added to the [blockchain](../helium-glossary.md#blockchain) without permission. There are many DIY instructions available for building your own Data Only hotspot, but keep in mind you will only be rewarded [HNT](../helium-glossary.md#hnt) for transferring [data](../helium-glossary.md#data).
 
 [**Rewards Distribution**](https://docs.helium.com/blockchain/mining/)**.**
 
-#### [Network](../helium-glossary.md#network) Usage
+### [Network](../helium-glossary.md#network) Usage
 
 The [Helium](../helium-glossary.md#helium) Network currently provides [LoRaWAN](../helium-glossary.md#lorawan) to [IoT](../helium-glossary.md#iot) devices, from weather [sensors](../helium-glossary.md#sensor) to electric scooters and bikes, and is in the process of rolling out an ambitious 5G global network. Learn more [here](https://www.helium.com/5G). The future of [HNT](../helium-glossary.md#hnt) mining rewards will be based on the quantity of [data transfer ](../helium-glossary.md#data-transfer)taking place over the network. You may find setting up your own sensors to not only add use-case utility to Helium, but to also be a lot of fun. All out-door enclosures should be equipped with a temperature/humidity sensor to monitor your [hardware's](../helium-glossary.md#hardware) exposure to the elements. If you'd like to get started with sensors, check out the [Awesome-Helium GitHub Repository](https://github.com/dansku/awesome-helium) which will get you acquainted with a variety of useful tools, and tips that can greatly enhance your Helium [mining](../helium-glossary.md#mining).\
 \
