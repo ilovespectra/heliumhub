@@ -1,7 +1,7 @@
 ---
 description: >-
-  Atmosphere for optimum environment while learning about and troubleshooting
-  your Helium hotspot.
+  For optimum atmosphere while learning about and troubleshooting your Helium
+  hotspot.
 ---
 
 # 🔊 Support Radio
