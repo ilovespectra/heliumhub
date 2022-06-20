@@ -1,7 +1,6 @@
----
-cover: .gitbook/assets/helium (2).jpeg
-coverY: 0
----
+
+ <img src=".gitbook/assets/helium (2).jpeg">
+
 
 # Helium Support Hub
 
