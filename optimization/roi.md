@@ -1,7 +1,4 @@
----
-cover: ../.gitbook/assets/image1.jpeg
-coverY: 0
----
+ <img src="../.gitbook/assets/image1.jpeg" width="650px" height="auto">
 
 # ROI
 
