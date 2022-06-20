@@ -1,9 +1,7 @@
----
-cover: .gitbook/assets/Screen Shot 2022-06-19 at 1.02.50 PM (2).png
-coverY: 0
----
+ <img src=".gitbook/assets/Screen Shot 2022-06-19 at 1.02.50 PM (2).png" width="1000px" height="auto">
 
 # 💲 Crypto 101
+
 
 Understanding the following information is not necessary to [mine](helium-glossary.md#mining) [HNT](helium-glossary.md#hnt), but until it’s [exchanged](helium-glossary.md#exchange) for [fiat](helium-glossary.md#fiat), the [crypto](helium-glossary.md#crypto) in your [wallet](helium-glossary.md#crypto-wallet) represents [stock](helium-glossary.md#stock) in the affiliated [software](helium-glossary.md#software). Developing a more well rounded perspective of what makes [Helium](helium-glossary.md#helium) work may give you a better idea of why exactly it is you’re in the space, and just what makes it so exciting!
 
@@ -11,21 +9,21 @@ _Below are some really fundamental principles behind_ [_blockchain_](helium-glos
 
 __[_What is money?_](crypto-101.md#what-is-money)__
 
-__[_Cryptocurrency_](crypto-101.md#cryptocurrency)__
+[_Cryptocurrency_](crypto-101.md#cryptocurrency)
 
-__[_Centralized vs. Decentralized_](crypto-101.md#centralized-vs.-decentralized)__
+[_Centralized vs. Decentralized_](crypto-101.md#centralized-vs.-decentralized)
 
-__[_What is Blockchain?_](crypto-101.md#what-is-blockchain)
+[_What is Blockchain?_](crypto-101.md#what-is-blockchain)
 
-__[_What is a Hash Function?_](crypto-101.md#what-is-a-hash-function)
+[_What is a Hash Function?_](crypto-101.md#what-is-a-hash-function)
 
-__[_Immutability_ ](crypto-101.md#immutability)
+[_Immutability_ ](crypto-101.md#immutability)
 
-__[_What is a Consensus Mechanism?_](crypto-101.md#what-is-a-consensus-mechanism)
+[_What is a Consensus Mechanism?_](crypto-101.md#what-is-a-consensus-mechanism)
 
-__[_What is DeFi?_](crypto-101.md#what-is-defi)
+[_What is DeFi?_](crypto-101.md#what-is-defi)
 
-__[_Scarcity_](crypto-101.md#scarcity)
+[_Scarcity_](crypto-101.md#scarcity)
 
 ### _What is_ [_Money_](helium-glossary.md#money)_?_
 
