@@ -4,7 +4,7 @@
 
 ## Helium Support Hub
 
-### For enhanced functionality, view the Gitbook version [here](https://tanny.gitbook.io/tannys-helium-support/)
+### _For enhanced functionality, view the Gitbook version_ [_here_](https://tanny.gitbook.io/tannys-helium-support/)_!_
 
 ### Welcome!
 
