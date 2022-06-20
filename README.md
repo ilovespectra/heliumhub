@@ -2,7 +2,7 @@
 
 
 ## Helium Support Hub
-
+For enhanced fucntionality, view the Gitbook version <a href="https://tanny.gitbook.io/tannys-helium-support/" target="_blank">here</a> 
 ### Welcome!
 
 Here you'll find information on [hotspot](helium-glossary.md#hotspot) troubleshooting, [the Helium Network](the-helium-network/), [cryptocurrency](helium-glossary.md#cryptocurrency) itself, and much more! If there's anything I missed [_let me know!_](troubleshooting/contact/)\_\_
