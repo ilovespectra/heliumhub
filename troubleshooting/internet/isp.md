@@ -1,0 +1,5 @@
+# ISP
+
+Most issues are caused and resolved by[ Wi-Fi](../../helium-glossary.md#wi-fi)/[internet](../../helium-glossary.md#internet) speed issues. Run a local [speed test](../../helium-glossary.md#speed-test) on your phone and computer to see speeds achieved with your [ISP](../../helium-glossary.md#isp) / [Router](../../helium-glossary.md#router) combination. Some ISPs have policies about creating static public [IP](../../helium-glossary.md#ip) addresses or lowering firewall settings. If you are being provided a router by your ISP and find it is unsuitable, read more in [Router / Modem](router-modem.md)
+
+The [Light Hotspot](../../helium-glossary.md#light-hotspots) release has dramatically reduced the amount of [data](../../helium-glossary.md#data) consumed by [hotspots](../../helium-glossary.md#hotspot). Still, if you've reached a data cap, you can negotiate an increase with your provider. _This primarily impacts_ [_off-grid_](../../helium-glossary.md#off-grid) _hotspots with cellular routers._
