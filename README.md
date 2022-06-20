@@ -1,8 +1,5 @@
-# Helium Support Hub
+<img src=".gitbook/assets/helium (2).jpeg" width="900px" height="auto">
 
-
-
-![](<.gitbook/assets/helium (2).jpeg>)
 
 ## Helium Support Hub
 
