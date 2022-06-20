@@ -1,9 +1,12 @@
-<img src=".gitbook/assets/helium (2).jpeg" width="900px" height="auto">
+# Helium Support Hub
 
+![](<.gitbook/assets/helium (2) (1).jpeg>)
 
-## Helium Support Hub
-For enhanced fucntionality, view the Gitbook version <a href="https://tanny.gitbook.io/tannys-helium-support/" target="_blank">here</a> 
-### Welcome!
+### Helium Support Hub
+
+For enhanced fucntionality, view the Gitbook version [here](https://tanny.gitbook.io/tannys-helium-support/)
+
+#### Welcome!
 
 Here you'll find information on [hotspot](helium-glossary.md#hotspot) troubleshooting, [the Helium Network](the-helium-network/), [cryptocurrency](helium-glossary.md#cryptocurrency) itself, and much more! If there's anything I missed [_let me know!_](troubleshooting/contact/)
 

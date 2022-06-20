@@ -2,12 +2,10 @@
 
 Issues pertaining to [syncing](../../helium-glossary.md#sync), pairing, or undiagnosed inactivity may be [hotspot](../../helium-glossary.md#hotspot)-related.
 
-&#x20;
-
 Causes
 
 * [Validator](../../helium-glossary.md#validator) Connection
-* [SD](../../helium-glossary.md#sd) Malfunction&#x20;
+* [SD](../../helium-glossary.md#sd) Malfunction
 * [SD](../../helium-glossary.md#sd) Failure
 * Other [Hardware](../../helium-glossary.md#hardware) Failure
 
@@ -17,8 +15,8 @@ When setting up your [hotspot](../../helium-glossary.md#hotspot), bear in mind t
 
 **SD Malfunction:** _see “_[_SD / Diagnostics_](sd-diagnostics/)_”_
 
-<br>
-<a href="https://github.com/ilovespectra/heliumhub/blob/main/troubleshooting/hotspot/online-offline-status.md" target="_blank">Online-Offline Status</a>
-<br>
+\
+[Online-Offline Status](online-offline-status.md)\
 
-<a href="https://github.com/ilovespectra/heliumhub/blob/main/troubleshooting/hotspot/error-messages.md" target="_blank">Error Messages</a>
+
+[Error Messages](error-messages.md)
