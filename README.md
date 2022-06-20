@@ -13,5 +13,6 @@ Here you'll find information on [hotspot](helium-glossary.md#hotspot) troublesho
 * [The Helium Network](the-helium-network/)
 * [Crypto 101](crypto-101.md)
 * [Optimization](optimization/)
+* [Walkthroughs](walkthroughs.md)&#x20;
 * [Troubleshooting](troubleshooting/)
 * [Glossary](helium-glossary.md)

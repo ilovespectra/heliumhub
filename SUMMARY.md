@@ -8,6 +8,7 @@
 * [📈 Optimization](optimization/README.md)
   * [ROI](optimization/roi.md)
   * [Location](optimization/location.md)
+* [🐾 Walkthroughs](walkthroughs.md)
 * [❓ Troubleshooting](troubleshooting/README.md)
   * [❔ FAQs](troubleshooting/faqs/README.md)
     * [Getting Started](troubleshooting/faqs/getting-started.md)
@@ -41,4 +42,3 @@
     * [Email](troubleshooting/contact/email.md)
 * [📖 Helium Glossary](helium-glossary.md)
 * [🔊 Support Radio](support-radio.md)
-* [🐾 Walkthroughs](walkthroughs.md)
