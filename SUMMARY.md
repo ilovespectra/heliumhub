@@ -41,3 +41,4 @@
     * [Email](troubleshooting/contact/email.md)
 * [📖 Helium Glossary](helium-glossary.md)
 * [🔊 Support Radio](support-radio.md)
+* [🐾 Walkthroughs](walkthroughs.md)
