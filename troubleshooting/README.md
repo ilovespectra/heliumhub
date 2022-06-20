@@ -3,7 +3,7 @@ description: >-
   Welcome to the Troubleshooting guide. You can begin by using the search bar
   above or checking FAQs. If you need any assistance, reach out and I'll be
   happy to help!
-cover: ../.gitbook/assets/helium (2).jpeg
+cover: ../.gitbook/assets/helium.jpeg
 coverY: 0
 ---
 

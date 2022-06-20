@@ -1,6 +1,8 @@
 # Helium Support Hub
 
-![](<.gitbook/assets/helium (1).jpeg>)
+
+
+![](<.gitbook/assets/helium (2).jpeg>)
 
 ## Helium Support Hub
 
