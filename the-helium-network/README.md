@@ -1,8 +1,6 @@
----
-description: Who made it? What is it for? How does it work?
-cover: ../.gitbook/assets/helium (1).jpeg
-coverY: 0
----
+<img src="../.gitbook/assets/helium (1).jpeg" width="900px" height="auto">
+Who made it? What is it for? How does it work?
+
 
 # 🎈 The Helium Network
 
@@ -132,5 +130,3 @@ The [Helium](../helium-glossary.md#helium) Network currently provides [LoRaWAN](
 Check out the [Helium RAK Developer Kit!](https://store.rakwireless.com/products/helium-developer-kit)
 
 With this kit you can build you own [Helium Mapper](https://docs.helium.com/use-the-network/coverage-mapping/mappers-quickstart/), and still have enough remaining components to assemble a highly capable [Environmental/Weather Sensor](https://github.com/RAKWireless/WisBlock/tree/master/examples/RAK4630/solutions/Weather\_Monitoring). Try introducing friends, or local businesses to some of the incredible industrial, agricultural, and infrastructural ingenuity made accessible by [LoRa](../helium-glossary.md#lora). Letting them know an affordable 5G option is on the way wouldn't hurt either, they may be interested to know they can earn cryptocurrency passively by competing with telecom corporations!&#x20;
-
-### [_**Have you seen the new MNTD. 5G HNT Hotspot yet?**_](https://getmntd.com/)
