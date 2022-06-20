@@ -1,12 +1,8 @@
----
-description: >-
-  What's with the FUD? This is an incredible opportunity for the future of The
-  People's Network!
----
-
 # Demystifying HIP51
 
 ![Look closely!](../.gitbook/assets/beforeandafter.png)
+  What's with the FUD? This is an incredible opportunity for the future of The
+  People's Network!
 
 ### Let's Talk About This Graphic
 
