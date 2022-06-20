@@ -82,8 +82,6 @@ Every epoch, the [consensus](../helium-glossary.md#consensus) group [mines](../h
 | <ul><li><a href="../helium-glossary.md#witness">Witnesses</a></li></ul> |   | Distributed to all Hotspots that witness a beacon packet as part of a PoC Challenge. |
 | ----------------------------------------------------------------------- | - | ------------------------------------------------------------------------------------ |
 
-\
-\
 
 
 | <ul><li><a href="../helium-glossary.md#consensus">Consensus</a> Group</li></ul> |   | Divided equally among the [Validators](../helium-glossary.md#validator) that are part of the outgoing Consensus Group, responsible for [mining](../helium-glossary.md#mining) [blocks](../helium-glossary.md#block). |
