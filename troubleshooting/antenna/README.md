@@ -32,3 +32,9 @@ _Do not run coax longer than 50ft (20m), or it will accumulate too much static._
 \*You can use this [Cable Attenuation Calculator](https://www.timesmicrowave.com/Calculator) to estimate a cable’s [data](../../helium-glossary.md#data) drop&#x20;
 
 The ideal antenna location is outside as high as possible. The attic takes 2nd place. Indoor antennas can be optimized by relocating the hotspot and antenna to the top floor and removing any metal screening from nearby windows, which will negatively [attenuate](../../helium-glossary.md#attenuation) your [signal](../../helium-glossary.md#signal).&#x20;
+
+<br><br>
+<a href="https://github.com/ilovespectra/heliumhub/blob/main/troubleshooting/antenna/grounding.md" target="_blank">Grounding Issues</a>
+
+<a href="https://github.com/ilovespectra/heliumhub/blob/main/troubleshooting/antenna/connection.md" target="_blank">Connection Issues</a>
+
