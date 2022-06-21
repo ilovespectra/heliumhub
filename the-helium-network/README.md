@@ -4,7 +4,7 @@
 
 ## 🎈 The Helium Network
 
-In 2013, [Helium](../helium-glossary.md#helium) began trying to tackle the global [wireless](../helium-glossary.md#wireless) problem: A lack of ubiquity. In order for any entity to provide global [coverage](../helium-glossary.md#coverage) required local contracts based on the regional standards. It wasn’t until 2019, that the Helium network as we know it now began to form.
+In 2013, [Helium](../helium-glossary.md#helium) began trying to tackle the global [wireless](../helium-glossary.md#wireless) problem: A lack of ubiquity. Providing global [coverage](../helium-glossary.md#coverage) required entities to seek local contracts based on the regional standards. It wasn’t until 2019, that the Helium network as we know it now began to form.
 
 [_**Helium**_](./#helium)
 
@@ -28,7 +28,7 @@ In 2013, [Helium](../helium-glossary.md#helium) began trying to tackle the globa
 
 ### Helium
 
-Summer of 2019 in Austin TX, a group of core engineers envisioned a [peer-to-peer network](../helium-glossary.md#peer-to-peer-network) that would be used to provide coverage to [IoT](../helium-glossary.md#iot) [sensors](../helium-glossary.md#sensor). Little did they realize Covid-19 was about to put the world on lockdown. This gave them time to connect, and work with organizations who would wind up playing integral roles in Helium’s genesis, but also drove home the impact of supply chain issues, resource scarcity, infrastructure inequality, and many other issues that were being exacerbated by the pandemic.\
+Summer of 2019 in Austin TX, a group of core engineers envisioned a [peer-to-peer network](../helium-glossary.md#peer-to-peer-network) that would be used to provide coverage to [IoT](../helium-glossary.md#iot) [sensors](../helium-glossary.md#sensor). Little did they realize Covid-19 was about to put the world on lockdown. This gave them time to connect, and work with organizations who would wind up playing integral roles in Helium’s genesis, but also drove home the impact of supply chain issues, resource scarcity, infrastructure inequities, and many other systemic issues that were being exacerbated by the pandemic.\
 \
 [Helium Foundation](https://www.helium.foundation/), which at that time was known as Decentralized Wireless Alliance, fosters research and development where [p2p](../helium-glossary.md#p2p) and [blockchain](../helium-glossary.md#blockchain) innovation intersect with [radio](../helium-glossary.md#radio) [hardware](../helium-glossary.md#hardware) and [sensor](../helium-glossary.md#sensor) development. In 2022, Helium and DeWi acquired an additional $200 million, after which Helium’s core developers underwent a name change to become [Nova Labs](https://nova.xyz/), and DeWi became [Helium Foundation](./#foundation).\
 \
