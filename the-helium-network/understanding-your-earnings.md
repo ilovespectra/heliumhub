@@ -6,7 +6,7 @@ Data Transfer Rewards are issued at a 1:1 ratio to HNT expenditure, and are capp
 
 [HNT and Data Credits](https://www.helium.com/token)
 
-[PoC](../helium-glossary.md#proof-of-coverage), or Proof of coverage, is a novel work algorithm used to determine hotspots are in fact in the location they’ve been asserted. RF has a limited distance, and a calculable strength, which allows the network to interrogate hotspots. There are three distinct roles involved in a [challenge](../helium-glossary.md#challenge):
+[PoC](../helium-glossary.md#proof-of-coverage), or Proof of Coverage, is a novel work algorithm used to determine hotspots are in fact in the location they’ve been asserted. RF has a limited distance, and a calculable strength, which allows the network to interrogate hotspots. There are three distinct roles involved in a [challenge](../helium-glossary.md#challenge):
 
 1. Challenger - The [Validator](../helium-glossary.md#validator) that constructs and issues the PoC Challenge. See [HIP 55](https://github.com/helium/HIP/blob/main/0055-validator-challenges.md) for further information about this change.
 2. Beaconer - Sometimes called "Challengee". This Hotspot is the target of the POC challenge and is responsible for [transmitting](../helium-glossary.md#transmission) (or "[beaconing](../helium-glossary.md#beacon)") challenge [packets](../helium-glossary.md#packet) to potentially be [witnessed](../helium-glossary.md#witness) by geographically proximate Hotspots.
