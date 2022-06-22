@@ -4,7 +4,7 @@
 
 ## 🎈 The Helium Network
 
-In 2013, [Helium](../helium-glossary.md#helium) began trying to tackle the global [wireless](../helium-glossary.md#wireless) problem: A lack of ubiquity. Providing global [coverage](../helium-glossary.md#coverage) required entities to seek local contracts based on the regional standards. It wasn’t until 2019, that the Helium network as we know it now began to form.
+In 2013, [Helium](../helium-glossary.md#helium) began trying to tackle the global [wireless](../helium-glossary.md#wireless) problem: the lack of ubiquity. Providing global [coverage](../helium-glossary.md#coverage) required entities to seek local contracts based on the regional standards. It wasn’t until 2019, that the Helium network as we know it now began to form.
 
 [_**Helium**_](./#helium)
 
