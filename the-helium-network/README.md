@@ -36,7 +36,7 @@ You can learn more about the investors who support Helium and Nova [here](https:
 
 ### Nova
 
-Co-founded by [Shawn Fanning](../helium-glossary.md#napster) and Amir Haleem in 2013, [Nova Labs](../helium-glossary.md#napster) (formerly Helium Inc.) is the pioneer of [decentralized](../helium-glossary.md#decentralized) [wireless](../helium-glossary.md#wireless) communications and founder of the core technologies powering the Helium Network.
+Co-founded by [Shawn Fanning](../helium-glossary.md#napster) (the creator of [Napster](../helium-glossary.md#napster)), Amir Haleem (a multimedia industry veteran), and Sean Carey (a former IT consultant) in 2013, [Nova Labs](../helium-glossary.md#napster) (formerly Helium Inc.) is the pioneer of [decentralized](../helium-glossary.md#decentralized) [wireless](../helium-glossary.md#wireless) communications and founder of the core technologies powering the Helium Network.
 
 Nova Labs is backed by Andreessen Horowitz, FirstMark, Goodyear Ventures, GV (formerly Google Ventures), Khosla Ventures, Liberty Global, Multicoin Capital, NGP Capital (backed by Nokia), Pantera Capital, Ribbit Capital, Seven Seven Six, Tiger Global, Union Square Ventures, Marc Benioff, Shawn Fanning and other top VCs. Nova Labs remains dedicated to building critical network infrastructure and technologies to support the [decentralization](../helium-glossary.md#decentralized) of wireless on a global scale. More information can be found at nova.xyz.”
 
