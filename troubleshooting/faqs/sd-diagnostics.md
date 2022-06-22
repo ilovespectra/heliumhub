@@ -15,7 +15,7 @@ _See_ [_SD / Diagnostics_ ](../hotspot/sd-diagnostics/)__
 It may take a few hours or even a couple of days to connect to a [validator](../../helium-glossary.md#validator) and begin [mining](../../helium-glossary.md#mining). Before waiting it out, retrace your steps carefully and make sure you covered these key bases:
 
 * If you used your computer's onboard [SD card](../../helium-glossary.md#sd-card) reader on your computer for the [reformat](../../helium-glossary.md#reformat) or [flash](../../helium-glossary.md#flash) process, try again using a high-speed Plug-in [USB SD card reader](../../helium-glossary.md#usb-sd-card-reader). _See_[ _SD / Diagnostics_](../hotspot/sd-diagnostics/)__
-* If you received an [SD card](../../helium-glossary.md#sd-card) in the mail from MNTD., it was ready to go. So if you [flashed](../../helium-glossary.md#flash) the SD upon receiving it, you will need to perform an [overwrite format ](../../helium-glossary.md#overwrite-format)and flash the card again. _See_ [_SD / Diagnostics_](../hotspot/sd-diagnostics/)__
+* If you ordered a pre-flashed [SD card](../../helium-glossary.md#sd-card), it was ready to go. So if you [flashed](../../helium-glossary.md#flash) the SD again upon receiving it, you will need to perform an [overwrite format ](../../helium-glossary.md#overwrite-format)and flash the card again. _See_ [_SD / Diagnostics_](../hotspot/sd-diagnostics/)__
 * If you are not connected to [ethernet](../../helium-glossary.md#ethernet), reconfigure your[ Wi-Fi](../../helium-glossary.md#wi-fi). _See_ [_SD / Diagnostics_](../hotspot/sd-diagnostics/)
 
 ### **I’m receiving an SD card error (MNTD.)**
