@@ -14,7 +14,7 @@ Steps to take:
 
 \
 **1. Download the Firmware file (works best if kept as a ZIP). Current version is 2022.04.19.0:**\
-[https://wishm-nextgate.s3.us-west-2.amazonaws.com/images/MNTD\_2022\_04\_19\_0.img.zip](https://wishm-nextgate.s3.us-west-2.amazonaws.com/images/MNTD\_2022\_04\_19\_0.img.zip)&#x20;
+[https://wishm-nextgate.s3.us-west-2.amazonaws.com/images/MNTD_2022_07_18_1.img.zip](https://wishm-nextgate.s3.us-west-2.amazonaws.com/images/MNTD\_2022\_04\_19\_0.img.zip)&#x20;
 
 **2. Install the** [**Balena Etcher**](https://www.balena.io/etcher/) **** [**flashing** ](../../../helium-glossary.md#flash)**tool you can find Windows, Mac and Linux versions**: (optional) a new replacement [microSD card](../../../helium-glossary.md#sd-card). MNTD. now recommends a SanDisk or Samsung 64[GB](../../../helium-glossary.md#gb) **High Endurance card**.&#x20;
 
