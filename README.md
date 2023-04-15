@@ -1,4 +1,5 @@
 # Helium Support Hub
+<a href="https://tanny.gitbook.io/tannys-helium-support/" target="_blank">Click Here</a>
 
 ![](<.gitbook/assets/helium (2) (1).jpeg>)
 
